@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "chatbot-backend-executor",
+    "name": "chatbot-backend",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "shtrjznbpl"
+  }
+}
