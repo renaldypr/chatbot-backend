@@ -16,7 +16,7 @@
     "jade": "~1.11.0",
     "lodash": "^4.17.19",
     "morgan": "~1.9.1",
-    "qs": "^6.9.4"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
